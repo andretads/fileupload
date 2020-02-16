@@ -1,0 +1,1 @@
+A minimal spring boot project containing a minimal app with a file upload form example.
